@@ -1,4 +1,4 @@
-name: Check B
+name: Build B
 
 on:
   workflow_dispatch:
